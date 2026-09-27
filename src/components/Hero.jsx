@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import { Download, Sparkles } from "lucide-react";
 import gsap from "gsap";
 import { EditorialDoodles } from "./Doodles";
-import profileImage from "../assets/images/profile/profile.jpeg";
+import profileImage from "../assets/images/profile/Profile.jpeg";
 import resumeFile from "../assets/images/resume/Zobia-Masood-Resume.pdf";
 
 const greeting = "Assalamualaikum, I'm";
