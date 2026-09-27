@@ -13,7 +13,7 @@ const skillCategories = [
     intro: "Interfaces with clarity, rhythm and room to breathe.",
     skills: [
       { name: "HTML5", logo: "html5", color: "E34F26" },
-      { name: "CSS3", logo: "css3", color: "1572B6" },
+      { name: "CSS3", logo: "css", color: "1572B6" },
       { name: "JavaScript (ES6+)", logo: "javascript", color: "F7DF1E" },
       { name: "React.js", logo: "react", color: "61DAFB" },
       { name: "Tailwind CSS", logo: "tailwindcss", color: "06B6D4" },
