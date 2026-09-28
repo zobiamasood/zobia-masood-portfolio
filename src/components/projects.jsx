@@ -391,6 +391,32 @@ function Projects() {
             </button>
           </div>
         )}
+        {/* ================= GITHUB ================= */}
+<div className="mt-6 flex justify-center">
+  <a
+    href="https://github.com/zobiamasood"
+    target="_blank"
+    rel="noreferrer"
+    className="
+      group inline-flex items-center gap-1.5
+      font-sans text-[12px] uppercase tracking-[0.14em]
+      text-[#607789]
+      transition-colors duration-300
+      hover:text-[#0F3D3E]
+    "
+  >
+    See all projects on my GitHub
+
+    <ArrowUpRight
+      size={14}
+      className="
+        transition-transform duration-300
+        group-hover:-translate-y-0.5
+        group-hover:translate-x-0.5
+      "
+    />
+  </a>
+</div>
       </div>
     </section>
   );
